@@ -20,15 +20,11 @@ Welcome to Yogaflex - the Yoga Class Enrollment App! This application allows use
 To use the app locally:
 
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the server directory (`server/`) in your terminal.
-3. Install Node.js dependencies: `npm install`
-4. Start the Node.js server: `npm start`
-5. Open a new terminal window, navigate to the root directory, and run:
-   - Install React app dependencies: `npm install`
-   - Start the React development server: `npm start`
-6. Access the app in your browser at `http://localhost:3000`
+2. Install Node.js dependencies: `npm install`
+3. Switch to frontend `cd frontend` folder and  `npm start`
+4. Access the app in your browser at `http://localhost:3000`
 
-Alternatively, you can access the hosted version of the app [here](https://yogaflex.netlify.app/).
+Alternatively, you can access the hosted version of the app [here]((https://yogaflexx.netlify.app/)).
 
 ## Screenshots
 
