@@ -46,3 +46,20 @@ To run the Backend  Node.js server locally:
 This will start the server at a specific port (e.g., `http://localhost:3001`) to handle form submissions and processing.
 
 Overall deployed site can be seen here [here](http://ec2-3-83-123-34.compute-1.amazonaws.com:3000/)
+
+
+## Database Access Credentials
+
+To access the database, use the following credentials:
+
+```javascript
+{
+    host: 'database-1.cqvwnzwnpbvg.ap-south-1.rds.amazonaws.com',
+    user: "admin",
+    password: "12345yuiop",
+    port: "3306",
+    database: "doxx"
+}
+```
+
+# Thank You So Much!
