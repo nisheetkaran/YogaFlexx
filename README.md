@@ -24,7 +24,7 @@ To use the app locally:
 3. Switch to frontend `cd frontend` folder and  `npm start`
 4. Access the app in your browser at `http://localhost:3000`
 
-Alternatively, you can access the hosted version of the app [here]((https://yogaflexx.netlify.app/)).
+Alternatively, you can access the fronted of the app [here](https://yogaflexx.netlify.app/).
 
 ## Screenshots
 
@@ -44,3 +44,5 @@ To run the Backend  Node.js server locally:
 4. Start the Node.js server: `npm run dev`
 
 This will start the server at a specific port (e.g., `http://localhost:3001`) to handle form submissions and processing.
+
+Overall deployed site can be seen here [here](http://ec2-3-83-123-34.compute-1.amazonaws.com:3000/)
