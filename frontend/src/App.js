@@ -56,7 +56,7 @@ const YogaClassForm = () => {
       })
 
       console.log(aa);
-      const response = await fetch('http://localhost:3001/api/make-payment', {
+      const response = await fetch('http://ec2-3-83-123-34.compute-1.amazonaws.com:3001/api/make-payment', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
